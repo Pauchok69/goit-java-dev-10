@@ -1,8 +1,8 @@
-package org.example.hibernate;
+package org.example.db;
 
 import lombok.Getter;
-import org.example.hibernate.entity.Client;
-import org.example.hibernate.entity.Planet;
+import org.example.entity.Client;
+import org.example.entity.Planet;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 

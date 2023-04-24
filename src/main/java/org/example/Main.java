@@ -1,8 +1,8 @@
 package org.example;
 
-import org.example.hibernate.HibernateUtil;
-import org.example.hibernate.entity.Client;
-import org.example.hibernate.entity.Planet;
+import org.example.db.HibernateUtil;
+import org.example.entity.Client;
+import org.example.entity.Planet;
 import org.hibernate.Session;
 
 public class Main {

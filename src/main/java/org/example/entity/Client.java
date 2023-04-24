@@ -1,4 +1,4 @@
-package org.example.hibernate.entity;
+package org.example.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
