@@ -21,6 +21,7 @@ public class Planet {
         JUPITER,
         SATURN,
         URANUS,
-        NEPTUNE
+        NEPTUNE,
+        PLUTO
     }
 }
